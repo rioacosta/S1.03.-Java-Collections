@@ -45,8 +45,6 @@ GitHub
 🛠️ Instalación
 
 Clona este repositorio: -> git clone
-Accede al directorio del proyecto: S1.01 Herencia y Polimorfismo
-Instala las dependencias: npm install …
 
 ▶️ Ejecución
 
